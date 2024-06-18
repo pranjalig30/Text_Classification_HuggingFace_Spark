@@ -1,13 +1,10 @@
-# Text_Classification_HuggingFace_Spark
+# Leveraging Hugging Face's Pre-Trained Models for Advanced Text Classification
 Text Classification Using Spark NLP and Hugging Face models
 
-•	Analyzed performance of Spark NLP’s BERT & Hugging Face’s DistilBERT Transformers. 
-Highlighted Spark NLP’s adaptability and resource optimization in comparison to Hugging Face for Advanced Text Classification. 
-Accuracy of HuggingFace 0.99 where as Spark NLP's accuracy 0.86
+This project is designed to critically assess and compare the efficacy of Spark NLP 5.1.4 and Hugging Face's Transformers in applying and fine-tuning pre-trained BERT models for text classification tasks. By building and adjusting a BERT classification model using Spark NLP and contrasting it with Hugging Face’s DistilBERT base uncased model, the study aims to evaluate their performance based on accuracy, precision, recall, and computational efficiency metrics. This comparison will shed light on the adaptability of these models to specific datasets and tasks, focusing on their minimal training requirements and resource optimization, particularly in GPU utilization and data processing techniques like batching.
+The project's primary objective is to offer insights into the suitability of Spark NLP and Hugging Face Transformers for various applications in business analytics, emphasizing their strengths and limitations in real-world settings. The findings will guide practitioners in selecting the most appropriate NLP tools for their specific needs, thereby underscoring the practical applications and customization potential of advanced pre-trained models in the rapidly evolving domain of NLP.
 
-# MSBA6331 - Trends Market Place - Big Data Analytics Project: Leveraging Hugging Face's Pre-Trained Models for Advanced Text Classification
-
-This repository contains the resources and notebooks for our text classification project using both Spark NLP and Hugging Face's Transformers. This work is completed in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota.
+Tools/Technology used: Hugging Face Transformers, Hugging Face, Distil Bert For SequenceClassification, Spark NLP - 5.1.4, Bert Classification model
 
 ## Project Overview
 
@@ -26,8 +23,10 @@ The aim of this project is twofold:
 
 ## Quick Links
 
+Project Video URL: https://z.umn.edu/msba6331videogroup5
+
 - [Project Flier](https://github.com/konda051/msba6331/blob/main/Flyer.pdf)
-- [Dataset Source](https://archive.ics.uci.edu/ml/machine-learning-databases/00228/smsspamcollection.zip)
+- [Dataset Source] Spam classification dataset (https://archive.ics.uci.edu/ml/machine-learning-databases/00228/smsspamcollection.zip)
 - [Additional Resources](https://www.databricks.com/blog/2023/02/06/getting-started-nlp-using-hugging-face-transformers-pipelines.html)
 - [Additional Resources](https://www.techtarget.com/whatis/definition/Hugging-Face#:~:text=Hugging%20Face%20provides%20access%20to%20a%20vast%20community%2C%20continuously%20updated,Face's%20hosted%20models%20saves%20money)
 
