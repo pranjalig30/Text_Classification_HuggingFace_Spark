@@ -3,8 +3,12 @@ Text Classification Using Spark NLP and Hugging Face models
 
 This project is designed to critically assess and compare the efficacy of Spark NLP 5.1.4 and Hugging Face's Transformers in applying and fine-tuning pre-trained BERT models for text classification tasks. By building and adjusting a BERT classification model using Spark NLP and contrasting it with Hugging Face’s DistilBERT base uncased model, the study aims to evaluate their performance based on accuracy, precision, recall, and computational efficiency metrics. This comparison will shed light on the adaptability of these models to specific datasets and tasks, focusing on their minimal training requirements and resource optimization, particularly in GPU utilization and data processing techniques like batching.
 The project's primary objective is to offer insights into the suitability of Spark NLP and Hugging Face Transformers for various applications in business analytics, emphasizing their strengths and limitations in real-world settings. The findings will guide practitioners in selecting the most appropriate NLP tools for their specific needs, thereby underscoring the practical applications and customization potential of advanced pre-trained models in the rapidly evolving domain of NLP.
+- [Interesting read](https://towardsdatascience.com/4-real-life-problems-solved-using-transformers-and-hugging-face-a-complete-guide-e45fe698cc4d)
 
-Tools/Technology used: Hugging Face Transformers, Hugging Face, Distil Bert For SequenceClassification, Spark NLP - 5.1.4, Bert Classification model
+## Tools/Technology used: 
+- Hugging Face Transformers: Distil Bert For SequenceClassification
+- Spark NLP - 5.1.4,
+- Bert Classification model
 
 ## Project Overview
 
@@ -30,7 +34,6 @@ Project Video URL: https://z.umn.edu/msba6331videogroup5
 - [Additional Resources](https://www.databricks.com/blog/2023/02/06/getting-started-nlp-using-hugging-face-transformers-pipelines.html)
 - [Additional Resources](https://www.techtarget.com/whatis/definition/Hugging-Face#:~:text=Hugging%20Face%20provides%20access%20to%20a%20vast%20community%2C%20continuously%20updated,Face's%20hosted%20models%20saves%20money)
 
-- [Interesting read](https://towardsdatascience.com/4-real-life-problems-solved-using-transformers-and-hugging-face-a-complete-guide-e45fe698cc4d)
 
 ## Getting Started
 
