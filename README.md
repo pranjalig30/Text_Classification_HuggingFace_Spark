@@ -30,6 +30,8 @@ Project Video URL: https://z.umn.edu/msba6331videogroup5
 - [Additional Resources](https://www.databricks.com/blog/2023/02/06/getting-started-nlp-using-hugging-face-transformers-pipelines.html)
 - [Additional Resources](https://www.techtarget.com/whatis/definition/Hugging-Face#:~:text=Hugging%20Face%20provides%20access%20to%20a%20vast%20community%2C%20continuously%20updated,Face's%20hosted%20models%20saves%20money)
 
+- [Interesting read](https://towardsdatascience.com/4-real-life-problems-solved-using-transformers-and-hugging-face-a-complete-guide-e45fe698cc4d)
+
 ## Getting Started
 
 To reuse and run this project's code, please follow the setup instructions below.
